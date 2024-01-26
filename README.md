@@ -1,8 +1,8 @@
-# 😈 HTML Parser
+<h1 align="center">😈 HTML Parser</h1>
 
-![Project Image](project_image.png)
+<p align="center"><img src="project_image.png"> </img></p>
 
-This Rust-based HTML parser provides a powerful and flexible tool for extracting information from web pages and resolving associated IP addresses. With a sleek command-line interface, it's designed for simplicity and efficiency.
+<p>This Rust-based HTML parser provides a powerful and flexible tool for extracting information from web pages and resolving associated IP addresses. With a sleek command-line interface, it's designed for simplicity and efficiency.</p>
 
 ## 🔑 Features
 

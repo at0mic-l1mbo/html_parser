@@ -127,7 +127,7 @@ fn main() {
     let args: Vec<String> = env::args().collect();
     if args.len() <= 1 {
         println!("[-] Invalid arguments!");
-        println!("Usage: cargo run -- https://www.google.com");
+        println!("Usage: ./html_parser https://www.google.com");
         return;
     }
     let website: &String = &args[1];

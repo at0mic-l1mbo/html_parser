@@ -36,10 +36,22 @@
 
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback. Together, we can make this project even better.
 
-### 🦄 Author
-
-At0mic-l1mbo
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🦄 Author
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/134895141?v=4" width="100px;" alt="Photo of at0mic-l1mbo"/><br>
+        <sub>
+          <b>At0mic-l1mbo</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>

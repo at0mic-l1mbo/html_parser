@@ -1,12 +1,10 @@
-<h1 align="center">😈 HTML Parser </h1><br/>
+# 😈 HTML Parser
 
-<h2 align="center"><img src="project_image.png"></img></h2>
+![Project Image](project_image.png)
 
-## Overview
+This Rust-based HTML parser provides a powerful and flexible tool for extracting information from web pages and resolving associated IP addresses. With a sleek command-line interface, it's designed for simplicity and efficiency.
 
-This Rust-based html parser that provides a powerful and flexible tool for extracting information from web pages and resolving associated IP addresses. With a sleek command-line interface, it's designed for simplicity and efficiency.
-
-## 🔑 Features: 
+## 🔑 Features
 
 - **Randomized IP Spoofing**: Utilizes random IP addresses for web requests to enhance anonymity.
 - **User-Agent Rotation**: Employs fake User-Agents for each request, adding an extra layer of disguise.
@@ -14,7 +12,7 @@ This Rust-based html parser that provides a powerful and flexible tool for extra
 - **HTML Parsing**: Extracts hyperlinks from HTML documents, enabling efficient link analysis.
 - **Output to File**: Saves resolved IP addresses with associated URLs to a customizable output file.
 
-## 🏎️ Usage:
+## 🏎️ Usage
 
 1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
 2. Navigate to the project directory: `cd your-repo`
@@ -38,8 +36,9 @@ This Rust-based html parser that provides a powerful and flexible tool for extra
 
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback. Together, we can make this project even better.
 
-<h3>🦄 Author</h3>
-<p>At0mic-l1mbo</p>
+### 🦄 Author
+
+At0mic-l1mbo
 
 ## License
 

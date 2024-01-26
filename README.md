@@ -14,23 +14,8 @@
 
 ## 🏎️ Usage
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
-3. Build and run: `cargo run -- https://www.example.com`
-
-## Requirements
-
-- Rust
-- Cargo
-- Trust-DNS Resolver
-- Reqwest
-
-## Getting Started
-
-1. Install Rust and Cargo by following the [official Rust installation guide](https://www.rust-lang.org/tools/install).
-2. Add dependencies to your `Cargo.toml`.
-3. Customize the code and configuration as needed for your specific use case.
-4. Run the application and explore the results in the `index.txt` file.
+1. Download the releases [here for your respective OS](https://github.com/at0mic-l1mbo/html_parser/releases/tag/htmlparser)
+2. Then run `.\html_parser https://www.somewebsite.com`
 
 ## Contributions
 
@@ -41,12 +26,33 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or pr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Building this project from sourcefile
+
+### Commands
+1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+2. Navigate to the project directory: `cd your-repo`
+3. Build and run: `cargo run -- https://www.example.com`
+
+### Getting Started
+
+1. Install Rust and Cargo by following the [official Rust installation guide](https://www.rust-lang.org/tools/install).
+2. Add dependencies to your `Cargo.toml`.
+3. Customize the code and configuration as needed for your specific use case.
+4. Run the application and explore the results in the `index.txt` file.
+   
+### Requirements
+- Rust
+- Cargo
+- Trust-DNS Resolver
+- Reqwest
+
+
 ## 🦄 Author
 
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
+      <a href="#" title="author image">
         <img src="https://avatars.githubusercontent.com/u/134895141?v=4" width="100px;" alt="Photo of at0mic-l1mbo"/><br>
         <sub>
           <b>At0mic-l1mbo</b>

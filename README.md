@@ -1,6 +1,6 @@
 <h1 align="center">😈 HTML Parser </h1><br/>
 
-![Project Logo](project_image.png)
+<h2 align="center"><img src="project_image.png"></img></h2>
 
 ## Overview
 

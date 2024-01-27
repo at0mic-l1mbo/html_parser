@@ -12,19 +12,19 @@
 - **HTML Parsing**: Extracts hyperlinks from HTML documents, enabling efficient link analysis.
 - **Output to File**: Saves resolved IP addresses with associated URLs to a customizable output file.
 
-## 🏎️ Usage
+## 🏎️ Usage<br></br>
 
 1. Download the releases [here for your respective OS](https://github.com/at0mic-l1mbo/html_parser/releases/tag/htmlparser)
-2. Then run `.\html_parser https://www.somewebsite.com`
+2. Then run `.\html_parser https://www.somewebsite.com`<br></br>
 
-## Contributions
+## 📫 Contributions<br></br>
 
-Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback. Together, we can make this project even better.
+Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback. Together, we can make this project even better.<br></br>
 
 
-## License
+## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.<br></br>
 
 ## Building this project from sourcefile
 
